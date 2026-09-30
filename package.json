@@ -1,0 +1,8 @@
+{
+  "name": "zunivo-android-app",
+  "version": "1.0.0",
+  "description": "Zunivo Android App",
+  "scripts": {
+    "start": "echo Zunivo App"
+  }
+}
